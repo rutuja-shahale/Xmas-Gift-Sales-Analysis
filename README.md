@@ -3,7 +3,9 @@
 ✽ Introduction:
 
 • Welcome to our Xmas Gift Sales Analysis dashboard! This user-friendly tool provides a comprehensive overview of our holiday season sales performance. 
+
 • Explore various metrics and insights to understand our sales trends across different regions, product categories, and customer segments.
+
 • This dashboard aims to help you make informed decisions by offering a clear and detailed view of our Xmas gift sales data. Dive in to uncover valuable insights and drive future strategies
 
 ✽ Tool Ussed: 
